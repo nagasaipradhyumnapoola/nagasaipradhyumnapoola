@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- ===================================================== -->
-<!--                  MOTION WALLPAPER                     -->
-<!-- ===================================================== -->
-
 <img
   src="./assets/wallpaper.gif"
   width="100%"
@@ -11,10 +7,6 @@
 />
 
 <br><br>
-
-<!-- ===================================================== -->
-<!--                    TYPING INTRO                       -->
-<!-- ===================================================== -->
 
 <picture>
   <source
@@ -29,10 +21,6 @@
 </picture>
 
 <br><br>
-
-<!-- ===================================================== -->
-<!--                   IDENTITY BLOCK                      -->
-<!-- ===================================================== -->
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════╗
@@ -179,43 +167,6 @@ Exploring mathematics, problem solving and the more theoretical side of the thin
 `Memory Systems` · `NumPy` · `Pandas` · `Scikit-learn`
 
 </div>
-
-<br>
-
----
-
-## Currently
-
-```python
-focus = {
-    "AI": [
-        "memory systems",
-        "agents",
-        "reasoning",
-        "local AI"
-    ],
-
-    "Quant": [
-        "probability",
-        "statistics",
-        "markets",
-        "systematic strategies"
-    ],
-
-    "Math": [
-        "linear algebra",
-        "calculus",
-        "optimization"
-    ],
-
-    "CS": [
-        "DSA",
-        "systems",
-        "databases",
-        "distributed computing"
-    ]
-}
-```
 
 <br>
 
