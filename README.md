@@ -1,58 +1,144 @@
 <div align="center">
 
-<img src="./assets/wallpaper.gif" width="100%" alt="pixel workspace animation"/>
+<!-- ===================================================== -->
+<!--                  MOTION WALLPAPER                     -->
+<!-- ===================================================== -->
+
+<img
+  src="./assets/wallpaper.gif"
+  width="100%"
+  alt="pixel animated workspace"
+/>
 
 <br><br>
+
+<!-- ===================================================== -->
+<!--                    TYPING INTRO                       -->
+<!-- ===================================================== -->
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Pradhyumna.;AI+%E2%80%A2+Quant+%E2%80%A2+Systems+%E2%80%A2+Research;research+%2B+code+%2B+math+%2B+chaos"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2700&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Pradhyumna.;AI+%C2%B7+Quant+%C2%B7+Systems+%C2%B7+Research;research+%2B+code+%2B+math+%2B+chaos;probably+building+something."
   />
+
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=900&color=111111&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Pradhyumna.;AI+%E2%80%A2+Quant+%E2%80%A2+Systems+%E2%80%A2+Research;research+%2B+code+%2B+math+%2B+chaos"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2700&pause=900&color=111111&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Pradhyumna.;AI+%C2%B7+Quant+%C2%B7+Systems+%C2%B7+Research;research+%2B+code+%2B+math+%2B+chaos;probably+building+something."
+    alt="typing animation"
   />
 </picture>
 
+<br><br>
+
+<!-- ===================================================== -->
+<!--                   IDENTITY BLOCK                      -->
+<!-- ===================================================== -->
+
+<pre>
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║                 N A G A   S A I   P R A D H Y U M N A            ║
+║                                                                  ║
+║           AI SYSTEMS  ·  QUANT  ·  RESEARCH  ·  CODE             ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
+
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=nagasaipradhyumnapoola&style=flat-square&color=555555&label=profile+views"/>
+[![GitHub](https://img.shields.io/badge/GitHub-nagasaipradhyumnapoola-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/nagasaipradhyumnapoola)
+![Focus](https://img.shields.io/badge/Focus-AI%20%2F%20Quant%20%2F%20Systems-111111?style=flat-square)
+![Status](https://img.shields.io/badge/status-building-111111?style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=nagasaipradhyumnapoola&style=flat-square&color=111111&label=visitors"/>
+
+<br><br>
+
+<code>19 y/o builder somewhere between research papers, terminals, mathematics and unreasonable ideas.</code>
 
 </div>
 
 <br>
 
+---
+
 ## Who I am
 
-I'm **Naga Sai Pradhyumna**, a Computer Science student at **SRM IST** and a **BS Data Science student at IIT Madras**.
+I'm **Naga Sai Pradhyumna**.
 
-I spend most of my time around **AI systems, quantitative finance, mathematics, research, and software engineering**.
+Currently pursuing:
+
+**B.Tech Computer Science & Engineering — SRM IST**  
+**BS Data Science — IIT Madras**
+
+Most of my time goes into:
+
+`Artificial Intelligence` · `Quantitative Finance` · `Mathematics` · `Systems` · `Research`
 
 I like understanding how complicated systems work — and then trying to build my own version.
 
 <br>
 
-## Currently Building
+---
 
-**Second Brain AI** — building personal AI around **memory, context, agents, reasoning, and execution**.
+## Building
 
-The idea is simple: AI shouldn't forget everything after every conversation.
+### Second Brain AI
 
-I'm exploring how software can gradually become a persistent intelligence layer around a user.
+I'm the **Founder of Second Brain AI**.
+
+We're exploring personal AI that can do more than just answer prompts.
+
+```txt
+memory
+   ↓
+context
+   ↓
+reasoning
+   ↓
+agents
+   ↓
+execution
+```
+
+The broader idea is to build software that **remembers context, understands what you're doing, and eventually becomes useful across your digital life**.
+
+Currently exploring things around:
+
+`memory systems` · `agents` · `RAG` · `voice` · `tool use` · `local AI`
 
 <br>
+
+---
 
 ## Communities
 
-**AURA** — Founder & President  
-AI • ML • Web • Data • Research • Hackathons
+### AURA
 
-**Vertex SRM** — Founding Team
+**Founder & President**
 
-**SRM Ramanujan Mathematics Club** — Member
+A student technical community around:
+
+`AI` · `ML` · `Web` · `Data` · `Research` · `Hackathons`
+
+Mostly focused on getting people to actually **learn, build and ship together**.
 
 <br>
+
+### Vertex SRM
+
+**Founding Team**
+
+Working around technical community building, engineering culture and experimentation.
+
+<br>
+
+### SRM Ramanujan Mathematics Club
+
+Exploring mathematics, problem solving and the more theoretical side of the things I build.
+
+<br>
+
+---
 
 ## Tech Arsenal
 
@@ -70,15 +156,15 @@ AI • ML • Web • Data • Research • Hackathons
 
 <br><br>
 
-### Data & Backend
+### Data / Backend
 
 <img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,firebase&theme=dark" />
 
 <br><br>
 
-### Tools
+### Systems / Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,vercel&theme=dark" />
 
 </div>
 
@@ -88,102 +174,79 @@ AI • ML • Web • Data • Research • Hackathons
 
 <div align="center">
 
-`RAG` • `Agents` • `Embeddings` • `Vector Search` • `Memory Systems`
+`Agents` · `RAG` · `Embeddings` · `Vector Search`
 
-`NumPy` • `Pandas` • `Scikit-learn` • `Model Orchestration`
+`Memory Systems` · `NumPy` · `Pandas` · `Scikit-learn`
 
 </div>
-
-<br>
-
-## Current Focus
-
-```txt
-AI        → memory · agents · reasoning · local AI
-Quant     → probability · statistics · markets
-Math      → linear algebra · calculus · optimization
-CS        → DSA · systems · databases · distributed computing
-Research  → models · architectures · papers
-```
-
-<br>
-
-## Things I'm Usually Doing
-
-- reading papers I only partially understand
-- building AI systems
-- experimenting with quantitative ideas
-- doing math for no immediate reason
-- starting repositories that were supposed to be "small projects"
-- breaking Linux and fixing it again
 
 <br>
 
 ---
 
-## Stats
+## Currently
 
-<div align="center">
+```python
+focus = {
+    "AI": [
+        "memory systems",
+        "agents",
+        "reasoning",
+        "local AI"
+    ],
 
-<img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=nagasaipradhyumnapoola&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff"
-/>
+    "Quant": [
+        "probability",
+        "statistics",
+        "markets",
+        "systematic strategies"
+    ],
 
-<img
-  width="40%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasaipradhyumnapoola&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888"
-/>
+    "Math": [
+        "linear algebra",
+        "calculus",
+        "optimization"
+    ],
 
-</div>
+    "CS": [
+        "DSA",
+        "systems",
+        "databases",
+        "distributed computing"
+    ]
+}
+```
 
 <br>
 
-## Activity
+---
 
-<div align="center">
+## Usually somewhere around...
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=nagasaipradhyumnapoola&bg_color=00000000&color=888888&line=FFFFFF&point=FFFFFF&area=true&area_color=222222&hide_border=true"
-  width="100%"
-/>
-
-</div>
-
-<br>
-
-## Contribution Squares
-
-<div align="center">
-
-<picture>
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nagasaipradhyumnapoola/nagasaipradhyumnapoola/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nagasaipradhyumnapoola/nagasaipradhyumnapoola/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/nagasaipradhyumnapoola/nagasaipradhyumnapoola/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-  />
-
-</picture>
-
-</div>
+```txt
+research papers
+        +
+      code
+        +
+      math
+        +
+     models
+        +
+ questionable project scopes
+        =
+   another repository
+```
 
 <br>
 
 <div align="center">
 
-### build → break → understand → rebuild
+### `still building.`
 
-<sub>probably building something.</sub>
+<sub>AI · QUANT · SYSTEMS · MATHEMATICS · RESEARCH</sub>
+
+<br><br>
+
+<code>github.com/nagasaipradhyumnapoola</code>
 
 </div>
