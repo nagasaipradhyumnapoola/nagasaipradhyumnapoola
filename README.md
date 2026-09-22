@@ -1,23 +1,42 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,50:161616,100:050505&text=NAGA%20SAI%20PRADHYUMNA&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=AI%20%E2%80%A2%20Quant%20%E2%80%A2%20Research%20%E2%80%A2%20Systems&descAlignY=58&descSize=18"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         SYSTEM HEADER                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0,0,0,0,0"/>
+
+<br>
+
+<pre>
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║                 N A G A   S A I   P R A D H Y U M N A            ║
+║                                                                  ║
+║           AI SYSTEMS  ·  QUANT  ·  RESEARCH  ·  CODE             ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Building+systems+that+think%2C+remember+and+act.;AI+Systems+%E2%80%A2+Quant+%E2%80%A2+Research+%E2%80%A2+Engineering;Code+%E2%86%92+Research+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Rebuild;Probably+building+something+unnecessarily+ambitious."
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=900&lines=%3E+booting+pradhyumna.exe...;%3E+building+systems+that+think%2C+remember+and+act;%3E+research+%2B+code+%2B+math+%2B+chaos;%3E+probably+starting+another+project..."
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=111111&center=true&vCenter=true&width=900&lines=Building+systems+that+think%2C+remember+and+act.;AI+Systems+%E2%80%A2+Quant+%E2%80%A2+Research+%E2%80%A2+Engineering;Code+%E2%86%92+Research+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Rebuild;Probably+building+something+unnecessarily+ambitious."
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=700&color=111111&center=true&vCenter=true&width=900&lines=%3E+booting+pradhyumna.exe...;%3E+building+systems+that+think%2C+remember+and+act;%3E+research+%2B+code+%2B+math+%2B+chaos;%3E+probably+starting+another+project..."
   />
 </picture>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nagasaipradhyumnapoola)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-nagasaipradhyumnapoola-111111?style=flat-square&logo=github)](https://github.com/nagasaipradhyumnapoola)
+[![Focus](https://img.shields.io/badge/Focus-AI%20%2F%20Quant%20%2F%20Systems-111111?style=flat-square)](#)
+[![Status](https://img.shields.io/badge/status-building-111111?style=flat-square)](#)
+<img src="https://komarev.com/ghpvc/?username=nagasaipradhyumnapoola&style=flat-square&color=111111&label=visitors"/>
+
+<br><br>
+
+<code>19 y/o builder somewhere between college, research papers, terminals and unreasonable project scopes.</code>
 
 </div>
 
@@ -25,615 +44,861 @@
 
 ---
 
-## `whoami`
+## `$ whoami`
 
-```txt
-Naga Sai Pradhyumna
+```yaml
+name: Naga Sai Pradhyumna
 
-Founder.
-Engineer.
-Researcher.
-Student.
-Quant enthusiast.
-Professional starter of "small side projects" that become entire systems.
+roles:
+  - Founder
+  - Engineer
+  - Researcher
+  - Student
+  - Quant enthusiast
+
+education:
+  - B.Tech CSE @ SRM IST
+  - BS Data Science @ IIT Madras
+
+coordinates:
+  interests:
+    - Artificial Intelligence
+    - Quantitative Finance
+    - Mathematics
+    - Systems Engineering
+    - Machine Learning
+    - Algorithms
+    - Research
+
+current_state: "building things before I fully know how to build them"
 ```
 
-I'm currently pursuing:
+> I don't want to just use complex systems.  
+> I want to understand them deeply enough to build my own.
 
-**B.Tech Computer Science & Engineering — SRM Institute of Science and Technology**
-
-and simultaneously:
-
-**BS in Data Science — IIT Madras**
-
-My interests sit at the intersection of:
-
-```txt
-Artificial Intelligence
-Quantitative Finance
-Mathematics
-Machine Learning
-Systems Engineering
-Agentic AI
-Algorithms
-Distributed Systems
-Research
-```
-
-I enjoy understanding complicated systems from first principles and then trying to build my own version of them.
-
-Most projects begin with:
-
-> **"Wait... why can't we just build this?"**
-
-and usually become significantly larger than expected.
+<br>
 
 ---
-
-# `currently_building`
-
-## 🧠 Second Brain AI
-
-My primary startup and long-term research direction.
-
-Second Brain AI is an attempt to build a **persistent personal intelligence layer** rather than another isolated chatbot.
-
-The core idea:
-
-```txt
-Memory
-   ↓
-Context
-   ↓
-Reasoning
-   ↓
-Tools
-   ↓
-Execution
-   ↓
-Learning
-```
-
-Instead of starting every conversation from zero, the system is designed to understand a user's long-term context, preferences, documents, work, activities and digital environment.
-
-The broader goal is simple:
-
-> Build AI that doesn't just answer questions — it actually knows your context.
-
-The ecosystem currently contains three major systems.
-
----
-
-## ⚡ Recursion
-
-Recursion is the execution and productivity layer of Second Brain AI.
-
-Think:
-
-```txt
-ChatGPT
-   +
-Claude
-   +
-Cursor
-   +
-Desktop Agents
-   +
-Persistent Memory
-   +
-Tools / MCP
-   +
-Automation
-```
-
-Core areas include:
-
-- persistent AI memory
-- agentic workflows
-- desktop interaction
-- document understanding
-- RAG
-- contextual search
-- plugins
-- MCP integrations
-- task execution
-- AI-assisted coding
-- local-first architecture
-- multi-device intelligence
-- productivity systems
-
-The goal is to build an AI workspace that can **remember, reason and execute**.
-
----
-
-## 🤖 Buddy
-
-Buddy is the Jarvis layer.
-
-A conversational personal AI assistant designed to interact naturally through voice and eventually operate across a user's digital environment.
-
-The direction includes:
-
-```txt
-Voice
-+ Memory
-+ Vision
-+ Agents
-+ Tools
-+ Desktop Control
-+ Personal Context
-```
-
-Long term:
-
-> Talk to your computer like you would talk to another person.
-
----
-
-## 🧠 Cognition
-
-Cognition is the intelligence and reasoning layer.
-
-Research areas include:
-
-- reasoning architectures
-- long-term memory
-- planning
-- multi-agent systems
-- knowledge representation
-- retrieval
-- personalization
-- model orchestration
-- context compression
-- autonomous reasoning
-
-The objective is to experiment with architectures that can support increasingly capable personal intelligence systems.
-
----
-
-# `quant_mode`
-
-## 📈 Indian Alpha
-
-An experimental **multi-agent quantitative research system** for Indian equities.
-
-Instead of using a single model to make decisions, the architecture separates responsibilities across agents.
-
-```txt
-Market Data
-      ↓
-Fundamental Agent
-      ↓
-News Agent
-      ↓
-Sentiment Agent
-      ↓
-Price Action Agent
-      ↓
-Bull Agent ↔ Bear Agent
-      ↓
-Risk Engine
-      ↓
-Portfolio Manager
-      ↓
-Decision
-```
-
-Research areas:
-
-- systematic trading
-- quantitative research
-- backtesting
-- factor models
-- market microstructure
-- portfolio construction
-- risk management
-- statistical strategies
-- financial data pipelines
-- multi-agent financial analysis
-
-The project is primarily a research platform for understanding how quantitative systems can combine traditional models with modern AI agents.
-
----
-
-## 🎲 GPU Accelerated Monte Carlo Option Pricing Engine
-
-A quantitative finance project focused on accelerating Monte Carlo simulations using parallel computation.
-
-Exploring:
-
-```txt
-Probability
-+
-Stochastic Processes
-+
-Option Pricing
-+
-Numerical Methods
-+
-Parallel Computing
-+
-GPU Acceleration
-```
-
-Areas of interest:
-
-- Black-Scholes
-- Monte Carlo simulation
-- derivatives pricing
-- CUDA / GPU computing
-- stochastic modelling
-- numerical optimization
-
----
-
-# `research_projects`
-
-## 🔬 Invenio
-
-A research correlation engine designed around an interesting question:
-
-> Can AI automatically discover useful connections between ideas from completely different academic fields?
-
-Invenio explores:
-
-- scientific literature
-- semantic search
-- research graphs
-- embeddings
-- cross-domain relationships
-- paper discovery
-- automated research assistance
-
-The long-term idea is to create systems capable of identifying connections that researchers may otherwise miss.
-
----
-
-## 🧠 Memora AI
-
-An experimental contextual recommendation and memory system.
-
-Rather than only looking at the user's immediate input, the system explores how historical context can improve recommendations.
-
-Areas include:
-
-- persistent memory
-- recommendation systems
-- embeddings
-- user context
-- retrieval
-- behavioral patterns
-
----
-
-## 📊 Social Media Engagement Prediction
-
-A machine learning pipeline built for predicting social media engagement.
-
-The project involved:
-
-```txt
-Dataset Cleaning
-→ Feature Engineering
-→ Exploratory Analysis
-→ Model Training
-→ Model Comparison
-→ Evaluation
-```
-
-Tools included:
-
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Jupyter
-
----
-
-# `other_builds`
-
-## 🚨 CrashSense 2.0
-
-An accident detection and emergency-response system combining software with embedded hardware experiments.
-
-The system explores:
-
-- crash detection
-- sensor data
-- emergency alerts
-- location sharing
-- automated response workflows
-- embedded systems
-
----
-
-## 📍 Sales Analytics Platform
-
-A role-based analytics and sales management platform with:
-
-- Admin
-- Manager
-- Salesperson
-
-features including:
-
-- authentication
-- analytics
-- live location
-- dashboards
-- activity tracking
-
-Built around technologies such as:
-
-```txt
-Next.js
-Supabase
-SQL
-React
-```
-
----
-
-# `tech_arsenal`
 
 <div align="center">
 
-### Languages
+### `SYSTEM MAP`
+
+```text
+                         PRADHYUMNA
+                              │
+          ┌───────────────────┼───────────────────┐
+          │                   │                   │
+          ▼                   ▼                   ▼
+
+     ARTIFICIAL            QUANT              SYSTEMS
+     INTELLIGENCE         RESEARCH           ENGINEERING
+          │                   │                   │
+          │                   │                   │
+          ├── Memory          ├── Probability     ├── Distributed
+          ├── Agents          ├── Markets         ├── Databases
+          ├── Reasoning       ├── Strategies      ├── Local-first
+          ├── RAG             ├── Derivatives     ├── Performance
+          └── Models          └── Simulation      └── Architecture
+
+                              │
+                              ▼
+
+                           BUILD.
+```
+
+</div>
+
+---
+
+# `01 / SECOND BRAIN AI`
+
+<div align="center">
+
+### memory → context → reasoning → execution
+
+</div>
+
+My main startup and long-term technical obsession.
+
+**Second Brain AI** is an attempt to build a persistent intelligence layer around a person.
+
+Not:
+
+```text
+user → prompt → answer → forget
+```
+
+But:
+
+```text
+                  ┌──────── MEMORY ────────┐
+                  │                       │
+                  ▼                       │
+USER → CONTEXT → REASONING → ACTION → EXPERIENCE
+                  │                       │
+                  └──────── LEARN ────────┘
+```
+
+The goal is an AI system that gradually understands:
+
+- what you're working on
+- what you've learned
+- what you've forgotten
+- your documents
+- projects
+- conversations
+- preferences
+- workflows
+- deadlines
+- digital activity
+
+and uses that context when acting.
+
+<br>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### ⚡ Recursion
+
+The **execution layer**.
+
+```text
+ChatGPT
++ Cursor
++ Claude
++ Memory
++ Tools
++ Agents
++ Desktop
+```
+
+Built around:
+
+`memory`
+
+`MCP`
+
+`RAG`
+
+`agents`
+
+`execution`
+
+`desktop control`
+
+`plugins`
+
+`context`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🤖 Buddy
+
+The **Jarvis layer**.
+
+```text
+voice
+  ↓
+understand
+  ↓
+reason
+  ↓
+act
+```
+
+Eventually:
+
+> Talk to your computer like another person.
+
+Voice.
+
+Vision.
+
+Memory.
+
+Actions.
+
+Personal context.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧠 Cognition
+
+The **intelligence layer**.
+
+Researching:
+
+`reasoning`
+
+`planning`
+
+`memory`
+
+`agent coordination`
+
+`knowledge`
+
+`model routing`
+
+`context compression`
+
+`learning`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+# `02 / QUANT MODE`
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                       INDIAN ALPHA                           │
+│                                                              │
+│      market data → agents → debate → risk → decision         │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+Experimental multi-agent quantitative research system for Indian markets.
+
+```mermaid
+flowchart LR
+    A[Market Data] --> B[Fundamental Agent]
+    A --> C[News Agent]
+    A --> D[Sentiment Agent]
+    A --> E[Price Action Agent]
+
+    B --> F[Bull Agent]
+    C --> F
+    D --> G[Bear Agent]
+    E --> G
+
+    F --> H[Debate]
+    G --> H
+
+    H --> I[Risk Engine]
+    I --> J[Portfolio Manager]
+    J --> K[Decision]
+```
+
+Researching:
+
+```text
+systematic strategies
+market microstructure
+factor models
+risk
+portfolio construction
+financial data
+statistics
+backtesting
+agent-based analysis
+```
+
+<br>
+
+### 🎲 GPU Monte Carlo Engine
+
+Another side quest that got out of hand.
+
+```text
+                  ┌─────────────┐
+                  │ Probability │
+                  └──────┬──────┘
+                         │
+        ┌────────────────┼────────────────┐
+        ▼                ▼                ▼
+   Monte Carlo       Derivatives        GPU
+   Simulation         Pricing        Acceleration
+        │                │                │
+        └────────────────┼────────────────┘
+                         ▼
+                     C++ ENGINE
+```
+
+Focused on:
+
+`Black-Scholes` `Monte Carlo` `Probability` `Numerical Methods` `GPU Computing`
+
+---
+
+# `03 / RESEARCH LAB`
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔬 IN­VENIO
+
+A research correlation engine.
+
+The question:
+
+> Can machines discover connections between ideas that humans study in completely different fields?
+
+Working around:
+
+- papers
+- embeddings
+- semantic retrieval
+- research graphs
+- cross-domain discovery
+- knowledge systems
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 MEMORA
+
+Experimental memory and recommendation engine.
+
+Exploring what changes when software doesn't just process your **current input**, but also remembers your **historical context**.
+
+Working around:
+
+- memory
+- embeddings
+- retrieval
+- recommendation systems
+- contextual intelligence
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+# `04 / OTHER EXPERIMENTS`
+
+```text
+┌───────────────────────────────────────────────┐
+│  Social Media Engagement Prediction          │
+│  ML pipeline · 12k dataset · model analysis  │
+├───────────────────────────────────────────────┤
+│  CrashSense 2.0                              │
+│  accident detection · sensors · emergency AI │
+├───────────────────────────────────────────────┤
+│  Sales Analytics Platform                    │
+│  Next.js · Supabase · analytics · location   │
+├───────────────────────────────────────────────┤
+│  Memora AI                                   │
+│  contextual recommendations + memory         │
+├───────────────────────────────────────────────┤
+│  Invenio                                     │
+│  multidisciplinary research discovery        │
+└───────────────────────────────────────────────┘
+```
+
+---
+
+# `05 / TECH STACK`
+
+<div align="center">
+
+### `LANGUAGES`
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts&theme=dark" />
 
 <br><br>
 
-### Frontend
+### `APPLICATION`
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" />
-
-<br><br>
-
-### Backend / Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,sqlite,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css&theme=dark" />
 
 <br><br>
 
-### Infrastructure
+### `DATA + BACKEND`
 
-<img src="https://skillicons.dev/icons?i=docker,linux,vercel,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,firebase&theme=dark" />
 
 <br><br>
 
-### Development
+### `SYSTEMS`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vercel&theme=dark" />
+
+<br><br>
+
+### `WORKSTATION`
+
+<img src="https://skillicons.dev/icons?i=vscode,github,linux&theme=dark" />
 
 </div>
 
 <br>
 
-### AI / ML
+```text
+AI / ML
 
-```txt
-NumPy
-Pandas
-Scikit-learn
-RAG
-Embeddings
-Vector Databases
-LLM Agents
-Multi-Agent Systems
-Model Orchestration
-Memory Systems
-Prompt Engineering
-Retrieval Systems
-```
-
-### AI tools I experiment with
-
-```txt
-Claude
-Gemini
-DeepSeek
-Qwen
-Llama
-GLM
-Ollama
-LM Studio
-Groq
-MCP
-AI coding agents
+Python        ███████████████████░
+RAG           ██████████████████░░
+Agents        ███████████████████░
+Embeddings    █████████████████░░░
+Scikit-learn  ███████████████░░░░░
+Pandas        █████████████████░░░
+NumPy         █████████████████░░░
 ```
 
 ---
 
-# `mathematics`
+# `06 / MODELS + AI TOOLS`
 
-I don't want to only use models.
+<div align="center">
 
-I want to understand the mathematics underneath them.
+`Claude` • `Gemini` • `DeepSeek` • `Qwen` • `Llama`
 
-Currently exploring:
+`GLM` • `Ollama` • `LM Studio` • `Groq` • `MCP`
 
-```txt
-Probability
-Statistics
-Linear Algebra
-Calculus
-Optimization
-Stochastic Processes
-Numerical Methods
-Time Series
-Quantitative Finance
+</div>
+
+I spend an unreasonable amount of time comparing:
+
+```text
+model quality
+     ×
+reasoning
+     ×
+latency
+     ×
+memory
+     ×
+tool use
+     ×
+local deployment
 ```
 
 ---
 
-# `computer_science`
-
-Current areas I'm strengthening:
-
-```txt
-Data Structures & Algorithms
-Operating Systems
-Computer Architecture
-Databases
-Distributed Systems
-Networking
-System Design
-Performance Engineering
-Competitive Programming
-```
-
----
-
-# `research_interests`
-
-Things I want to understand deeply instead of just calling an API:
-
-- Transformer architectures
-- Alternative neural architectures
-- AI memory
-- Retrieval systems
-- Long-context models
-- Agent coordination
-- Reinforcement learning
-- Continual learning
-- World models
-- Reasoning systems
-- Efficient inference
-- Local AI
-- Model compression
-- GPU computing
-- Distributed AI systems
-- Quantitative trading
-- Market microstructure
-- Statistical learning
-- Human-computer interaction
-
----
-
-# `leadership`
-
-## Aura — AI & Technology Club
-
-**Founder & President**
-
-Building a technical community around:
-
-```txt
-AI
-Machine Learning
-Web Development
-Data
-Competitive Programming
-Hackathons
-Research
-Peer Learning
-```
-
-The goal is not just events.
-
-The goal is to create a group of people who actually **build things together**.
-
----
-
-## Vertex SRM
-
-Part of the founding team.
-
-Focused on building and contributing to the technical community at SRM.
-
----
-
-# `experience`
-
-### Quantitative Trading Foundations — D+A Strategies
-
-Exposure to:
-
-- financial markets
-- quantitative trading foundations
-- macroeconomic research
-- market analysis
-
-### FYC WINTERN
-
-Completed a short-term winter training program.
-
-### Coding Ninjas AI / ML
-
-Worked on an AI/ML technical task as part of the program.
-
----
-
-# `hackathons`
-
-Hackathons are one of my favourite ways to learn.
-
-Because you have:
-
-```txt
-an idea
-+ limited time
-+ insufficient sleep
-+ broken dependencies
-+ questionable architecture
-```
-
-and somehow still have to ship something.
-
-I've participated in multiple hackathons, including offline competitions, reaching finalist positions and podium finishes.
-
----
-
-# `currently_learning`
+# `07 / MATH MODE`
 
 ```python
-current_focus = {
+things_i_want_to_actually_understand = [
 
-    "AI": [
-        "agent architectures",
-        "memory systems",
-        "reasoning systems",
-        "LLM architecture",
-        "local-first AI"
-    ],
+    "Probability",
+    "Statistics",
+    "Linear Algebra",
+    "Calculus",
+    "Optimization",
+    "Stochastic Processes",
+    "Numerical Methods",
+    "Time Series",
+    "Quantitative Finance"
 
-    "Quant": [
-        "probability",
-        "statistics",
-        "market microstructure",
-        "systematic strategies",
-        "derivatives"
-    ],
+]
+```
 
-    "Computer Science": [
-        "DSA",
-        "distributed systems",
-        "databases",
-        "operating systems",
-        "performance engineering"
-    ],
+Using an equation is useful.
 
-    "Research": [
-        "machine learning",
-        "mathematics",
-        "new AI architectures"
-    ]
+Understanding **why it works** is more interesting.
+
+---
+
+# `08 / CS MODE`
+
+```c
+while (alive) {
+
+    learn("DSA");
+
+    learn("Operating Systems");
+
+    learn("Computer Architecture");
+
+    learn("Databases");
+
+    learn("Distributed Systems");
+
+    learn("Networking");
+
+    learn("System Design");
+
+    learn("Performance Engineering");
+
+    build();
+
 }
 ```
 
 ---
 
-# `selected_projects`
+# `09 / LEADERSHIP`
 
-| Project | Description | Focus |
-|---|---|---|
-| **Second Brain AI** | Persistent personal intelligence system | AI • Memory • Agents |
-| **Recursion** | AI workspace capable of reasoning and execution | AI • Agents • Systems |
-| **Buddy** | Jarvis-style personal AI assistant | Voice • Agents • Personal AI |
-| **Cognition** | Intelligence and reasoning architecture | AI Research • Reasoning |
-| **Indian Alpha** | Multi-agent quantitative research system | Quant • Finance • AI |
-| **Invenio** | Cross-disciplinary scientific research engine | AI • Research |
-| **Memora AI** | Context-aware memory and recommendations | AI • Memory |
-| **GPU Monte Carlo Engine** | Accelerated derivatives pricing | C++ • Quant • Probability
+### `AURA`
+
+Founder & President of an AI / technology community at SRM.
+
+```text
+AURA
+ │
+ ├── AI
+ ├── Machine Learning
+ ├── Web
+ ├── Data
+ ├── Competitive Programming
+ ├── Research
+ └── Hackathons
+```
+
+The objective isn't:
+
+> organize events.
+
+The objective is:
+
+> **get smart people in a room and make them build things.**
+
+<br>
+
+### `VERTEX SRM`
+
+Part of the founding team.
+
+Working around technical community building, experimentation and engineering culture.
+
+---
+
+# `10 / EXPERIENCE`
+
+```text
+D+A STRATEGIES
+
+    quantitative trading foundations
+    financial markets
+    macroeconomic research
+    market analysis
+
+
+FYC WINTERN
+
+    technical training
+
+
+CODING NINJAS
+
+    AI / ML technical work
+```
+
+---
+
+# `11 / HACKATHON MODE`
+
+<div align="center">
+
+```text
+IDEA
+ │
+ ▼
+BUILD
+ │
+ ▼
+ERROR
+ │
+ ▼
+GOOGLE
+ │
+ ▼
+ANOTHER ERROR
+ │
+ ▼
+3:47 AM
+ │
+ ▼
+DEMO
+```
+
+</div>
+
+Offline hackathons.
+
+Finalist runs.
+
+Podium finish.
+
+Broken dependencies.
+
+Questionable architectural decisions.
+
+Would participate again.
+
+---
+
+# `12 / CURRENT PROCESS`
+
+```python
+while True:
+
+    idea = generate_unnecessarily_ambitious_idea()
+
+    research(idea)
+
+    repository = create_repo(idea)
+
+    architecture = overengineer(repository)
+
+    build(repository)
+
+    if breaks(repository):
+        debug_until_unreasonable_hour()
+
+    learn()
+
+    repeat()
+```
+
+---
+
+# `13 / CURRENT RESEARCH`
+
+<details>
+<summary><b>▸ AI Systems</b></summary>
+
+<br>
+
+- Persistent memory
+- Agent architecture
+- Reasoning systems
+- Model orchestration
+- Context compression
+- RAG
+- Long-context intelligence
+- Local AI
+- Continual learning
+- World models
+
+</details>
+
+<details>
+<summary><b>▸ Quantitative Finance</b></summary>
+
+<br>
+
+- Probability
+- Market microstructure
+- Statistical strategies
+- Derivatives
+- Backtesting
+- Portfolio theory
+- Risk
+- Time series
+
+</details>
+
+<details>
+<summary><b>▸ Systems</b></summary>
+
+<br>
+
+- Distributed architectures
+- Databases
+- Local-first software
+- Performance
+- Networking
+- GPU computing
+- Large-scale backend design
+
+</details>
+
+<details>
+<summary><b>▸ Mathematics</b></summary>
+
+<br>
+
+- Linear algebra
+- Probability
+- Statistics
+- Optimization
+- Stochastic processes
+- Numerical computation
+
+</details>
+
+---
+
+# `14 / GITHUB TELEMETRY`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nagasaipradhyumnapoola&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nagasaipradhyumnapoola&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=888888&dates=555555&sideNums=FFFFFF&currStreakNum=FFFFFF"/>
+
+<br>
+
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagasaipradhyumnapoola&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nagasaipradhyumnapoola&bg_color=00000000&color=AAAAAA&line=FFFFFF&point=777777&area=true&area_color=333333&hide_border=true"/>
+
+</div>
+
+---
+
+# `15 / CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/nagasaipradhyumnapoola/nagasaipradhyumnapoola/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/nagasaipradhyumnapoola/nagasaipradhyumnapoola/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+src="https://raw.githubusercontent.com/nagasaipradhyumnapoola/nagasaipradhyumnapoola/output/github-contribution-grid-snake.svg"
+width="100%"
+/>
+
+</picture>
+
+</div>
+
+---
+
+# `16 / RANDOM ACCESS MEMORY`
+
+```text
+[00] "small weekend project"
+     ↓
+     14 folders
+     7 services
+     3 agents
+     1 existential crisis
+
+
+[01] tabs open
+     47
+
+
+[02] probability of starting another repo
+     0.97
+
+
+[03] favorite debugging strategy
+     stare at error → rewrite architecture
+
+
+[04] production users
+     fewer than the scalability architecture suggests
+
+
+[05] current objective
+     become dangerously good at building hard things
+```
+
+---
+
+# `17 / END GOAL`
+
+<div align="center">
+
+```text
+
+        COMPUTER SCIENCE
+               │
+               │
+               ▼
+        ARTIFICIAL INTELLIGENCE
+               │
+               │
+               ▼
+           MATHEMATICS
+               │
+               │
+               ▼
+      QUANTITATIVE FINANCE
+               │
+               │
+               ▼
+       SYSTEMS ENGINEERING
+               │
+               │
+               ▼
+
+             BUILD.
+
+```
+
+</div>
+
+I don't want to collect technologies.
+
+I want enough depth to:
+
+```text
+understand difficult systems
+        ↓
+design them
+        ↓
+build them
+        ↓
+research new ones
+        ↓
+turn them into products
+        ↓
+build companies around them
+```
+
+---
+
+<div align="center">
+
+<br>
+
+<pre>
+SYSTEM STATUS
+────────────────────────────────────
+
+curiosity      ████████████████████ 100%
+ideas          ████████████████████ 100%
+projects       ███████████████████░  96%
+sleep          █████░░░░░░░░░░░░░░  24%
+finished TODOs ████████░░░░░░░░░░░  41%
+
+────────────────────────────────────
+
+status: still building...
+</pre>
+
+<br>
+
+### `BUILD. BREAK. UNDERSTAND. REBUILD.`
+
+<br>
+
+<sub>
+github.com/nagasaipradhyumnapoola
+</sub>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FFFFFF"/>
+
+</div>
